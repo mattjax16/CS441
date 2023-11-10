@@ -1,0 +1,14 @@
+Avp connection ring (chain) all of the AVP cells send to one other AVP cell ie AVP cell i to i-1 (AVP to AVP)
+
+A ring connection plus every 4th AVP cell message to not just i-1 but also one of the VIP cells
+
+use those 2 networks plus varrying the avp start
+
+REsults to messyure:
+   Constant darkness
+   Order parametor
+   Period once it is stabilized
+
+
+
+Do Vip network as ring and have AVP network go in opposite direction
